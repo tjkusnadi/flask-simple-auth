@@ -1,9 +1,9 @@
+# Compiled Code
 *.pyc
-
 
 # Unit test / coverage reports
 .coverage
 htmlcov/
 
-#  vscode
+# Vscode
 .vscode
