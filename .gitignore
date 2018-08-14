@@ -1,0 +1,9 @@
+*.pyc
+
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+
+#  vscode
+.vscode
