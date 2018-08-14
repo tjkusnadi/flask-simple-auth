@@ -1,6 +1,9 @@
+
 languange: python
 python:
   - "2.7"
+
+sudo: enabled
 
 install:
   - pip install -r requirements.txt
